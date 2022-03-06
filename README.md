@@ -20,7 +20,9 @@ Escreva um algoritmo que ao receber uma string s, mostre a mensagem encriptada d
 
 # Requisitos
 Para este desafio você precisará:
+
 * Java
+
 Para executar os arquivos, basta seguir o exemplo abaixo:
 
     `C:\>javac Q1.java`
